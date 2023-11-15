@@ -11,7 +11,7 @@
   * [Resolving conflicts](#resolving-conflicts)
   * [Editing after pull request](#editing-after-pull-request)
 
-## General info
+## General infoasdfsadfsadfasdf
 In order to have everyone's code work correctly there are a couple rules you must follow.
 
 Before you start you need to understand the two main places to place your code.
